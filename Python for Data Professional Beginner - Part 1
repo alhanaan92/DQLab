@@ -1,0 +1,84 @@
+❤️ Struktur Program Python - Part 1 ❤️ [https://academy.dqlab.id/main/livecode/157/283/1249] 🔗
+# Statement
+print("Belajar Python menyenangkan") 
+print("Halo Dunia")
+print("Hello World!")
+# Variables & Literals
+bilangan1 = 5
+bilangan2 = 10
+kalimat1 = "Belajar Bahasa Python"
+# Operators
+print(bilangan1 + bilangan2)
+
+❤️ Tugas Praktek ❤️ [https://academy.dqlab.id/main/livecode/157/283/1251] 🔗
+harga_asli = 20000
+potongan = 2000
+harga_setelah_potongan = harga_asli - potongan 
+harga_final = harga_setelah_potongan * 1.1 
+print(harga_final)
+
+❤️ Sequence Type – Part 1 ❤️ [https://academy.dqlab.id/main/livecode/157/284/1262] 🔗
+contoh_list = [1,'dua',3,4.0,5]
+print(contoh_list[0])
+print(contoh_list[3])
+contoh_list = [1,'dua',3,4.0,5]
+contoh_list[3] = 'empat'
+print(contoh_list[3])
+
+❤️ Sequence Type – Part 2 ❤️ [https://academy.dqlab.id/main/livecode/157/284/1263] 🔗
+contoh_tuple = ('Januari', 'Februari', 'Maret', 'April')
+print(contoh_tuple[0])
+contoh_tuple = ('Januari', 'Februari', 'Maret', 'April')
+contoh_tuple[0] = 'Desember'
+
+❤️ Set Type ❤️ [https://academy.dqlab.id/main/livecode/157/284/1264] 🔗
+contoh_list = ['Dewi', 'Budi', 'Cici', 'Linda', 'Cici'] 
+print(contoh_list)
+contoh_set = {'Dewi', 'Budi', 'Cici', 'Linda', 'Cici'}
+print(contoh_set)
+contoh_frozen_set = ({'Dewi', 'Budi', 'Cici', 'Linda', 'Cici'})
+print(contoh_frozen_set)
+
+❤️ Mapping Type ❤️ [https://academy.dqlab.id/main/livecode/157/284/1265] 🔗
+person = {'nama': 'John Doe', 'pekerjaan': 'Programmer'}
+print(person['nama'])
+print(person['pekerjaan'])
+
+❤️ Tugas Praktek ❤️ [https://academy.dqlab.id/main/livecode/157/284/1266] 🔗
+sepatu = {"nama": "Sepatu Niko", "harga": 150000, "diskon": 30000}
+baju = {"nama": "Baju Unikloh", "harga": 80000, "diskon": 8000}
+celana = {"nama": "Celana Lepis", "harga": 200000, "diskon": 60000}
+
+❤️ Tugas Praktek ❤️ [https://academy.dqlab.id/main/livecode/157/284/1267] 🔗
+sepatu = {"nama": "Sepatu Niko", "harga": 150000, "diskon": 30000} 
+baju = {"nama": "Baju Unikloh", "harga": 80000, "diskon": 8000} 
+celana = {"nama": "Celana Lepis", "harga": 200000, "diskon": 60000} 
+daftar_belanja = [sepatu, baju, celana]
+
+❤️  ❤️ [] 🔗
+
+
+❤️  ❤️ [] 🔗
+
+
+
+❤️  ❤️ [] 🔗
+
+
+
+❤️  ❤️ [] 🔗
+
+
+
+❤️  ❤️ [] 🔗
+
+
+❤️  ❤️ [] 🔗
+
+
+❤️  ❤️ [] 🔗
+
+
+❤️  ❤️ [] 🔗
+
+
