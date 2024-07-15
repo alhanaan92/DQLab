@@ -114,7 +114,7 @@ def luas_segitiga(alas, tinggi):  #alas dan tinggi merupakan parameter yang masu
 luas_segitiga(4,6)
 
 ❤️ Fungsi dengan Return Value ❤️ [https://academy.dqlab.id/main/livecode/45/114/547] 🔗
-def luas_segitiga(alas, tinggi):  #alas dna tinggi merupakan paramater yang masuk
+def luas_segitiga(alas, tinggi):  #alas dan tinggi merupakan paramater yang masuk
 	luas = (alas*tinggi)/2
 	return luas
 
